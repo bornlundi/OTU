@@ -65,7 +65,7 @@ Assumptions: I'm lined up to use a working ATM that supports withdrawals, this i
 11. Get card
 12. Get receipt
 13. Count and Confirm the cash amount
-14. Store cash, card and receipt safely
+14. Store cash, card and receipt safely. 
 
 
 ***
