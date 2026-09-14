@@ -1,3 +1,3 @@
 # OTU
-Major in Mathematics for Science and Industry with a Minor in Finance.  
+Double Major in Mathematics and Physics.
 Courses and their Notes.  
