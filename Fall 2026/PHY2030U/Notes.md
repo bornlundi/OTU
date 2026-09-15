@@ -158,5 +158,4 @@
   **F** = Fr**r** + Fθ**θ**
 
 * The rest of the chapter is an expansion on the derivative of the above equation and problem solving when an object is moving in circular paths.
-```
 
